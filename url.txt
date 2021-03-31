@@ -1,0 +1,2 @@
+url: https://car-sales-af3b9.web.app
+github: https://github.com/S00199690/carsales-nosql
